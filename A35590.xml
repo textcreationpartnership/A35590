@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case betwixt Mr. Pool and Mr. Cornelius Bee considered and decided</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35590</idno>
+            <idno type="STC">Wing C859</idno>
+            <idno type="STC">ESTC R43076</idno>
+            <idno type="EEBO-CITATION">26758970</idno>
+            <idno type="OCLC">ocm 26758970</idno>
+            <idno type="VID">109779</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35590)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109779)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1712:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case betwixt Mr. Pool and Mr. Cornelius Bee considered and decided</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1677?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>M. Pool published "Synopsis criticorum aliorumque Sacrae</note>
+                  <note>Imperfect: creased and stained, with loss of text.</note>
+                  <note>Reproduction of original in Christ Church Library, Oxford University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poole, Matthew, 1624-1679. --  Synopsis criticorum aliorumque Sacrae Scripturae interpretum et commentatorum.</term>
+               <term>Bee, Cornelius.</term>
+               <term>Synopsis criticorum aliorumque Sacrae Scripturae interpretum et commentatorum.</term>
+               <term>Publishers and publishing --  England. --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="case">
+            <pb facs="tcp:109779:1"/>
+            <pb n="1" facs="tcp:109779:1" rendition="simple:additions"/>
+            <head>THE CASE Betwixt Mr. POOL, and Mr. CORNELIUS BEE; <hi>Conſidered</hi> and <hi>Decided.</hi>
+            </head>
+            <opener>
+               <salute>DEAR NEPHEW,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Could do no leſs than gratifie your deſires in imparting my opinion to you, touching the Difference betwixt Mr. <hi>Pool</hi> and Mr. <hi>Bee,</hi> ha<g ref="char:EOLhyphen"/>ving diligently peruſed and weighed the prin<g ref="char:EOLhyphen"/>ted Papers on both ſides; whereupon, I muſt needs tell you, I am undeceiv'd in my thoughts, which were, That Mr. <hi>Pool</hi> undertook his De<g ref="char:EOLhyphen"/>ſign with the full conſent and good liking of Mr. <hi>Bee</hi>: But now I apprehend it very far o<g ref="char:EOLhyphen"/>therwiſe, and that Mr. <hi>Pool</hi> hath engaged himſelf (and others) in his Undertaking, not onely contrary to the mind of Mr. <hi>Bee,</hi> but to his own Promiſe to him, before Mr. <hi>Bee</hi>'s going into <hi>Holland:</hi> And for the better ſecuring of himſelf in his Proceedings, hath adviſed with two learned Lawyers, to know whether he hath not as juſt a Title to and Property in Mr. <hi>Bee</hi>'s goods, (viz. the <hi>Nine Volumns</hi> of the <hi>Cri<g ref="char:EOLhyphen"/>ticks</hi> printed for himſelf and others) as he himſelf hath. It is reſolved by his Counſel, Firſt, <hi>That the grant of the ſole printing the Criticks doth not prohibit the printing of a</hi> Synopſis <hi>made out of the Criticks,</hi> &amp;c. <hi>any
+<pb n="2" facs="tcp:109779:2"/>more than the grant of the ſole printing of the Bible doth prohibit the print<g ref="char:EOLhyphen"/>ing of a Sermon or Concordance.</hi> Secondly, the Opinion of Mr. <hi>Jones</hi> is, <hi>That Mr.</hi> Bee <hi>hath no injury done to him by Mr.</hi> Pool <hi>and</hi> by conſequence, <hi>can have no remedy either in Law or Equity.</hi>
+            </p>
+            <p>I would humbly preſent this Reply to the Opinion of theſe Two Learned Gentlemen, (it being that which mainly animates Mr. <hi>Pool</hi> to his <hi>vigorous</hi> proceedings in this Work) That the Act of Parliament, mentioned in the Papers (printed betwixt them) is intended to ſecure every mans <hi>propriety</hi> in that kind, from any open or ſurreptitious in<g ref="char:EOLhyphen"/>trenchment upon it, (the Proprietor obſerving the requiſite circum<g ref="char:EOLhyphen"/>ſtances of the ſaid Act as due <hi>Entry in the Regiſter Book of the Com<g ref="char:EOLhyphen"/>pany of Stationers at their Hall,</hi> &amp;c.) So that there is nothing appears more evident than the <hi>Reaſon</hi> of that Act, (and the <hi>Reaſon</hi> of the Law is properly the Law) which is deſtroyed, if another man lay hands up<g ref="char:EOLhyphen"/>on my juſt and proper goods, and ſo order and diſpoſe of them at his pleaſure, that my intereſt is not onely prejudiced, (which the ſaid Act hath provided againſt) but overthrown and extinguiſhed. It's true, Mr. <hi>Pool</hi> pretends not to print Mr. <hi>Bee's Criticks</hi> either the <hi>whole,</hi> or <hi>any one of the Nine Volumns;</hi> but he would have the World under<g ref="char:EOLhyphen"/>ſtand, <hi>That he will take care to collect</hi> (out of them) <hi>what ever belongs to the Explication of Scripture,</hi> &amp;c. which is the intent of the Seaven firſt Volumns of the <hi>Criticks</hi> directly, of the Two laſt reductively: So that, if we may believe Mr. <hi>Pool,</hi> he will leave Mr. <hi>Bee</hi> the bare ſceleton onely, and make uſe of the reſt himſelf; which, how contra<g ref="char:EOLhyphen"/>ry it is to the manifeſt reaſon and intent of the mentioned Act, any ingenuous Arbitrator will eaſily judg. Mr. <hi>Pool</hi> cuts here and there a piece out of my gown, when be hath ſo done, he calls them his own, then bids me be quiet, and ſends me word his Counſel tells him, <hi>He does me no injury, and I have no remedy in Law or Conſcience.</hi> For my part, I cannot but apprehend Mr. <hi>Bee</hi> to have as juſt a right and propriety in the <hi>Criticks,</hi> as Mr. <hi>Pool</hi> hath to the jump upon his back, who doubt<g ref="char:EOLhyphen"/>leſs would count himſelf as much wronged, by having it mangled to pieces, as to have it violently taken from him, though the Learnedſt Lawyers in the Land ſhould tell him he is not injured, and hath no re<g ref="char:EOLhyphen"/>medy in Law or Equity. For the printing a Sermon or Concordance, neither of them prejudice the Grant of ſole printing the Bible, it being no ways deſtructive to the Reaſon of that Act for Printing; nor doth that weaken, much leſs nullifie the intereſt of him or them to whom the Grant is indulged: for again I muſt affirm that if the reaſon of the Law (every way eſſential to it) be abandoned, it is but called what it is not, as the man is called a man when his ſoul and body are parted: Had Mr. <hi>Pool</hi> printed twenty Sermons, and in them quoted Mr. <hi>Bee</hi>'s
+<pb n="3" facs="tcp:109779:2"/>
+               <hi>Criticks</hi> an hundred times, or inſtead of a Concordance extracted an Index or Indices, poſſibly Mr <hi>Bee</hi> might have been ſo far from thinking his intereſt violated, that he might have judged of it much other<g ref="char:EOLhyphen"/>wiſe. But in the abſence of Mr. <hi>Bee,</hi> that Mr. <hi>Pool</hi> contrary to his pro<g ref="char:EOLhyphen"/>miſe (as if the word of a Prieſt were not ſacred, and the breach of it execrable) to project a way to draw the plank from under him, which was principally, if not onely, left him to get to ſhore after that Fatal Fire had conſumed the bottom <hi>(Sion Coledge)</hi> wherein he had embar<g ref="char:EOLhyphen"/>ked ſo great a Treaſure of Learned Authors, and among the reſt, the far greater part of that coſtly Edition of the <hi>Criticks,</hi> is a thing, where<g ref="char:EOLhyphen"/>in no Counſel does, or can excuſe him. I cannot imagine what claim Mr. <hi>Pool</hi> preſumes to Mr. <hi>Bee's</hi> goods, unleſs it be for coming within the walls of Sion Colledg; this I am aſſured of, were there no Law to inforce it, yet Conſcience and Honeſty would be, and do like it ſelf.</p>
+            <p>Beſides the forementioned Act, conſidered in the true reaſon of it, Mr. <hi>Bee</hi> thought himſelf (as he very well might) further, and more fully confirmed in an undoubted property in his own goods, by his Majeſties Royal and gracious priviledge (a favour uſually indulged by moſt Princes in Chriſtendom to Merchants for books, with a ſevere penalty to any that ſhall preſume to do any thing that ſhall violate their Mandates) prefixt to the firſt Volume of the <hi>Criticks:</hi> The learned Lawyer may reply in a Caſe of a different nature, (yet the ſame in iſſue) and tell us, <hi>That the Kings Declaration it not a pardon in point of Law, unleſs under the Broad Seal, yet God forbid but it ſhould bind in point of honour.</hi> His Majeſties gracious priviledge vouchſafed to Mr. <hi>Bee,</hi> correſponding with an Act (the Kings Law) gives him as juſt an intereſt in the <hi>Criticks,</hi> and ſecures him from any damage, as much as any man can be ſecured in goods of that nature.</p>
+            <p>This I have written to you (k<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Nephew) to ſatisfie you as to ths Velitations betwixt Mr. <hi>Pool</hi> and Mr. <hi>Bee;</hi> and further, I aſſure you, it was not long after that diſmal fire in <hi>London,</hi> that Mr. <hi>Bee</hi> deſired my advice about raiſing his Criticks out of their aſhes by a ſecond Edition, (this was long before Mr. <hi>Pool</hi> was heard of to have any ſuch deſign in hand) and accordingly (having read over the nine Volumns of the <hi>Criticks</hi>) I directed him about the conveniency of laying aſide ſome or thoſe Authors in the former Edition, and the inſerting ſome not formerly taken in, as alſo the reducing and applying ſeveral of thoſe excellent tracts in the Appendices, to their proper places, be<g ref="char:EOLhyphen"/>ſides many other rare pieces, heard of, and found out ſince. This I ſig<g ref="char:EOLhyphen"/>nifie to you, becauſe Mr. <hi>Pool</hi> was ſo difficult to give credit to Mr. <hi>Bee</hi> when he aſſured him of his reſolution in that kind: And lately I hear Mr. <hi>Bee</hi> hath printed a <hi>Specimen</hi> of his intended purpoſe, but have not yet ſeen it.</p>
+            <pb n="4" facs="tcp:109779:3"/>
+            <p>You deſire to know my mind touching your Subſcription for the <hi>Synopſis,</hi> (the <hi>Specimen</hi> whereof you ſent me) I ſhould be loath to en<g ref="char:EOLhyphen"/>courage you to that, which I ſee ſo much reaſon not to do my ſelf: Beſides the apparent wrong which is done and accrues to Mr. <hi>Bee</hi> by this undertaking, Let me tell you, I have beſtowed a diligent per<g ref="char:EOLhyphen"/>uſal upon the printed <hi>Specimen</hi> ſent abroad by Mr. <hi>Pool.</hi> In one of them, (for I have ſeen two ſeveral ones) I ſuppoſe the firſt, I diſcove<g ref="char:EOLhyphen"/>red ſeveral miſtakes; enough to allay my hopes in the following work, when that which was ſent into three Kingdomes (if no further) to invite their hands to his aſſiſtance, was ſo groſſely overſeen. The next time the ſame ſheet came abroad mended in ſome of its former errours, yet ſtill it wants not ſome, and thoſe conſiderable (which if you have not found, when I ſee you, which I hope ſhortly, I ſhall con<g ref="char:EOLhyphen"/>vince you of) far from that accurateneſs pretended, that I verily be<g ref="char:EOLhyphen"/>leive it will not make any Atheiſt cry, nor a jot divert him from his Lucianick laughter: Now Sir, if this <hi>Specimen</hi> that is ſent abroad, which doubtleſs hath had thouſands of eyes upon it, labours of ſuch defects (to ſay no more) and ſo many as I have not found in half the nine Volumes of the Criticks (to the honour of thoſe learned and worthy perſons, who had the over-ſight of that work, I ſpeak it) what may we expect in the following ſheets, which are not to come to our ſight, till we have the firſt of his three promiſed Tomes?</p>
+            <p>I aſſure you, I am ſo ſenſible of the damage done to Mr. <hi>Bee</hi> by Mr. <hi>Pool</hi> in this buſineſs, (who would make the world believe he hath Law and Conſcience of his ſide) that I cannot omit the acquainting of you with one paſſage I was a preſent witneſs of in <hi>Oxford,</hi> where Mr. <hi>Bee</hi> had contracted for a ſmall number of <hi>Criticks</hi> (before Mr. <hi>Pool</hi> had proclaimed h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s project to the world) and it was my hap to be in <hi>Oxford</hi> again, when Mr. <hi>Bee</hi> had the ſaid ſmall number of <hi>Criticks</hi> de<g ref="char:EOLhyphen"/>livered to him upon his former contract; where I heard him, freely offer fifty pounds to be releaſed of his bargain, Mr. <hi>Pools Specimen</hi> being abroad before the delivery of the books, which was not heard of before he contracted for them (ſuch is the fortune of new things) ſo much damage Mr. <hi>Bee</hi> ſuſtained by Mr. <hi>Pools</hi> means, in a ſmall number; though there is no queſtion, but the ground and reaſon of the Act of Parliament, and his Majeſties Royal Priviledge, are intended to protect him from any damages in that kind: If you duely conſider it, you will eaſily underſtand, that as well the Printing of the <hi>Cri<g ref="char:EOLhyphen"/>ticks,</hi> as of any other books whatſoever (be the books never ſo uſeful and valuable,) if they be lyable to the pleaſure of every Epitomizer, as it is enough to diſcourage any noble Undertaking, ſo to undo the Undertaker.</p>
+            <pb n="5" facs="tcp:109779:3"/>
+            <p>You perceive by the papers, that Mr. <hi>Bee</hi> hath ſhewed his readineſs to commend his deſign to the Reverend Convocation now ſitting, and to ſubmit his work to their advice and direction, either for Epito<g ref="char:EOLhyphen"/>mizing his <hi>Criticks,</hi> or the ſetting forth another Edition: Mr. <hi>Pool</hi> is a perſon that I know not, but they that do, and are very able to judge, deem him in ſeveral reſpects very unfitting for ſuch an undertaking, and many (nay moſt)of the learned Clergy in this Country are of the ſame opinion, and plainly ſay, <hi>Have we no Files of our own, but muſt go to the</hi> Philiſtins <hi>to whet our Coulters?</hi>
+            </p>
+            <div type="part">
+               <opener>
+                  <salute>Kind Nephew,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg> Received lately a ſheet of paper, ſet forth by Mr. <hi>Pool,</hi> a great part whereof is only a Repetition of his former Vindication (as he calls it) Subſcribed by two Lawyers, enlarged now to five in all: I gave you my thoughts upon the former, you deſire the like in this: I ſhall not looſe ſo much time as to reply any thing to the mans confident words, he hath little to do that reads them a ſecond time.</p>
+               <p>What Mr. <hi>Pool</hi> hath ſaid in his laſt (ſhould he make his Vindicati<g ref="char:EOLhyphen"/>on as large as he intends his <hi>Synopſis</hi>) it will be but ſlender ſatisfaction to any impartial underſtanding, till he anſwer the reaſon of the Act 14. <hi>Car.</hi> 2. (as I intimated to you in my laſt) the reaſon (I ſay) of that Act, for the moſt learned Lawyers in their books tell me, that Rea<g ref="char:EOLhyphen"/>ſon is the Law of the Law: and the deſign of the foreſaid Act is to ſecure every mans propriety in the books he Prints, juſtly and duly obſerving the conditions required in the Act, which Mr. <hi>Bee</hi> makes it appear he hath done.</p>
+               <p>Mr. <hi>Pool</hi> aſſures us<g ref="char:punc">▪</g> he hath as ample a priviledge for the Printing of his <hi>Synopſis,</hi> as Mr. <hi>Bee</hi> for his <hi>Criticks,</hi> and that none ſhall Print, or Sell h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Book, but whom Mr. <hi>Pool</hi> ſhall appoint: Grant it to be ſo, let me ask Mr. <hi>Pool</hi> in his ear, if Mr. <hi>Bee's</hi> ſecurity by a Law confirmed to him, as alſo by his Majeſties Royal Priviledge, does not defend hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> againſt Mr. <hi>Pool's</hi> intruſion upon, and violation of his due right<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ich intereſt, whether does it ſecure him from having the like uſage. All he confidently preſumes he may legally practiſe towards M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Criticks:</hi> Mr. <hi>Pool</hi> ſays, is this; he does not intend to Print Mr olume, Mr. Well, mark it! when Mr. <hi>Pool</hi> hath ſet forth his ſomething from <hi>Bee</hi> poſſibly, or ſome other, may adde to, or d<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> alteration in h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <hi>Synopſis,</hi> (for nothing is more eaſy) and ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pract<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe, beſides method forſooth, and for ſo doing Mr. <hi>Poo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the
+<pb n="6" facs="tcp:109779:4"/>the opinion of five learned in the Law, is ready to witneſs againſt him, otherwiſe it will not appear as juſtifiable in the one as in the other: And if Mr. <hi>Pool</hi> finds the like uſage from Mr. <hi>Bee</hi> when his firſt Volume is produced, and Mr. <hi>Bee</hi> crys it about the three Kingdoms as Mr. <hi>Pool</hi> hath done, I will not give him two pence for his <hi>vigorous</hi> proceedings in his ſecond and third Volume. Its true indeed, Mr. <hi>Pool</hi> makes not uſe of ſuch faint Politicks, but will keep the warmer ſide of the Hedg, for he hath got enough into his Hands to bear Charges, and is reſolved to wade no further than he will be ſure to come off alive: I muſt needs ſay Mr. <hi>Bee</hi> hath ſhewed great ingenuity all along, in thoſe rare pieces he hath Printed; for he was willing to ſhew him that bought his Books what he had for his Money, and left him to himſelf whether he thought good to buy or not: Mr. <hi>Pool</hi> is upon far diffe<g ref="char:EOLhyphen"/>rent termes, and ſells his Subſcribers, <hi>A Pigg in a Poke,</hi> as we ſay in <hi>York-ſhire.</hi>
+               </p>
+               <p>In the next place, I cannot underſtand where Mr. <hi>Pool</hi> finds the Ab<g ref="char:EOLhyphen"/>ſurdity of Mr. <hi>Bee</hi> in the ſtating of his Caſe, which, to any man that reads his Papers, appears to be thus; <hi>viz.</hi> Whether the <hi>Criticks</hi> were Mr. <hi>Bees?</hi> and conſequently, whether Mr. <hi>Pool,</hi> or any other, might aſſay any thing with, or about the <hi>Criticks,</hi> deſtructive to Mr. <hi>Bees</hi> in<g ref="char:EOLhyphen"/>tereſt and propriety. And where does Mr. <hi>Pools</hi> perſpicacity find Mr. <hi>Bee</hi> miſtaken, or abſurd in the ſtating of his caſe? Hereupon, I ſuppoſe (not without as good reaſon as Mr. <hi>Pool</hi> produces any) that <hi>Sion Colledge</hi> (where Mr. <hi>Bees</hi> treaſury of books was) being burnt down, if Mr. <hi>Pool</hi> builds upon the ground where it ſtood, and makes the buildings leſs than before (Epitomizes them) and claps his Bills up<g ref="char:EOLhyphen"/>on the Door, or upon the Exchange, ſignifying that if any man hath a mind to be his Tenant, (though the rooms are not ſo big, yet they the price are as commodious, and) they ſhall have them for a third part they were at formerly, that he does the owners of that ground as little injury, as he does to Mr. <hi>Bee</hi> in this Caſe; for he hath as much right to his <hi>Criticks</hi> by the Law (though they are moſt of them burnt) as any man hath, or had, to his Houſe or the Ground whereon up<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Houſe ſtood: Mr. <hi>Bee</hi> hath a mind to build his houſe again himſelf diſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> is own ground and foundation, what reaſon hath any man to leſs (Ep<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>? If he takes not in all his ground, but builds his rooms he not have es his <hi>Criticks</hi> himſelf, which I hope be will not do) ſhall his own, and w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erty allowed by the Law to do what he pleaſe with What if Mr <hi>Bee</hi> breaſonable to grant every man in thoſe caſes? according to his <hi>Speci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> as large as before, Prints, I mean, the <hi>Criticks</hi> intends, it will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> forth (which if he proceeds to do, as he <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> eminent work, next the <hi>Sacred Bible</hi>
+                  <pb n="7" facs="tcp:109779:4"/>that ever the Chriſtian world enjoyed) ſuppoſe it amounts to a round price, Mr. <hi>Pool</hi> will direct any man to an expedient that hath not 10 <abbr>
+                     <hi>l,</hi>
+                  </abbr> to purchaſe it, or time to read ſuch large Volumes, and will aſſure him where he ſhall have the moſt material Authors, if not all of them, for a ſmall matter, Mr. <hi>Bee</hi> hath ſunk the prizes of them ſo low, by hook<g ref="char:EOLhyphen"/>ing them (as it pleaſes Mr. <hi>Pool</hi> to call it) into his <hi>Criticks:</hi> Mr. <hi>Pool</hi> intends to take in the <hi>Bibl. Max</hi> and many other Authors (he names) into his <hi>Synopſis,</hi> and to ſqueeze the virtue out of them, which if he does, we ſhall hope to have thoſe voluminous Authors for a Song, or as cheap as Marrow Bones in the ſtreet, when Mr. <hi>Pool</hi> hath ſuck't out the Marrow, as he confidently would perſwade his Subſcribers, and all that are ſo credulous as to take his word for it.</p>
+               <p>It is ſuggeſted in Mr. <hi>Pool</hi>'s laſt paper, that his warrant is good for his proceeding vigorouſly in his buſineſs, becauſe, though he makes bold with Mr. <hi>Bee</hi>'s <hi>Criticks,</hi> yet he extracts alſo out of ſeveral other Authors. This juſtifies him not a jot, or no more than if any man ſhould think he might lawfully export prohibited commodities out of the Kingdome of <hi>England,</hi> if he carries along with thoſe prohibited goods ſeveral others that are allowed, to bear them company; there is as little to be ſaid againſt Mr. <hi>Pool</hi> ſhould he undertake the epitomi<g ref="char:EOLhyphen"/>zing of Mr <hi>Bee</hi>'s <hi>Criticks</hi> only, as if he takes in <hi>Bib. Max. Cajetan. Ainſworth, &amp;c.</hi> into his <hi>Synopſis</hi> to go along with them. I believe the Law will not excuſe him that practiſes the former, which if it does not, it can never juſtifie Mr. <hi>Pool</hi> for doing the latter, for it ne<g ref="char:EOLhyphen"/>ceſſitates the ruining Mr <hi>Bee</hi>'s intereſt in reference to his juſt right in his <hi>Criticks.</hi>
+               </p>
+               <p>For Mr. <hi>Pool</hi>'s two concluding caſes, and his Queries upon them, he may take theſe few concluding conſiderations. Firſt, If his Doctor be ſo Reverend, very Learned, and Worthy, as Mr. <hi>Pool</hi> repreſents him, he will do nothing unworthy of all thoſe titles: If he hath epi<g ref="char:EOLhyphen"/>tomized Mr. <hi>Bee</hi>'s <hi>Criticks,</hi> and drawn in collections out of divers other Authors, much of Mr. <hi>Pool</hi>'s labour is done to his hand: when the Dr. pleaſes to ſet forth his <hi>Specimen,</hi> if it appears that he hath not undermined Mr. <hi>Bee</hi>'s propriety, I ſhall wiſh him God ſpeed. Further if Mr. <hi>Pool</hi>'s Doctor be ſuch as he ſets him forth, <hi>viz.</hi> Reverend, very Learned, and Worthy, Mr. <hi>Bee</hi> may poſſibly ſuperſede and ſuſpend his intereſt, in hopes that the publique may be ſerved by a perſon of ſuch eminencies, which he hath great reaſon to doubt are very hardly to be found in Mr. <hi>Pool.</hi> Again, thoſe excerptions of the Doctors, ga<g ref="char:EOLhyphen"/>thered out of the Authors which Mr. <hi>Bee</hi> hath taken into his <hi>Criticks</hi> before Mr. <hi>Bee</hi>'s <hi>Criticks</hi> came forth (which is about 8. years ſince) were ſuppoſed by the Doctor either to be prejudicial to Mr.<hi>Bee</hi>'s inte<g ref="char:EOLhyphen"/>reſt,
+<pb n="8" facs="tcp:109779:5"/>or very little beneficial to the publick, otherwiſe he would not have concealed them ſo long, and at laſt revealed the ſecret to Mr <hi>Pool</hi> to make a query of: I believe Mr. <hi>Pool</hi>'s Doctor hath not epito<g ref="char:EOLhyphen"/>miſed the <hi>Criticks,</hi> becauſe its rarely done for private uſe by Reverend and very Learned Doctors.</p>
+               <p>For <hi>Speeds Chronicle, Dictionaries, Reports,</hi> and others, if upon an extract out of them all, thoſe that have the priviledge of ſole Print<g ref="char:EOLhyphen"/>ing them are not injured, or are not willing to think themſelves inju<g ref="char:EOLhyphen"/>red, what concerns it Mr. <hi>Bee</hi> to become their Apologiſt? And for Mr. <hi>Pool</hi> to argue <hi>à facto ad jus</hi> is to leave a Cipher for the conſe<g ref="char:EOLhyphen"/>quence. Doubtleſs Mr. <hi>Bee</hi> is wronged by Mr. <hi>Pool</hi>'s unrighteous at<g ref="char:EOLhyphen"/>tempt, apparently againſt that which muſt neceſſarily be acknowledged to be the reaſon of the Law, by all that impartially weight it, other<g ref="char:EOLhyphen"/>wiſe they muſt conclude it a very difficult matter to find any in it.</p>
+               <p>When you have ſignified what I have ſaid to Mr. <hi>Pool,</hi> acquaint the Book-ſeller and Printers, who uſed to publiſh books worth a Schol<g ref="char:EOLhyphen"/>lars reading, that hereafter they ſecure themſelves by Subſcriptions ere they begin, or elſe fortifie themſelves with a ſtrong belief, that when they have beſtowed ſome thouſands of pounds in Printing of an Author, the Epitomizing of it will do them no injury, (unleſs by chance it undo them.) What would they think that have the Copy of Serjeant <hi>Rolles</hi> his <hi>Common-place book</hi> (lately ſet forth, and ſold for forty ſhillings;) ſhould any man fall to Epitomizing (paring ſomething off, and inſerting ſomething into it out of other Law-books, chang<g ref="char:EOLhyphen"/>ing the method, all which are feaſable) and tell the world that the Book is Large, the Price Great, and ſome have not ſo much time as to read ſuch a Volume; others not money, to go to the price of it, I would not excuſe the Undertakers for the loſs of many a pound: for ſuppoſe the Epitomizer tell his Subſcribers be would ſell his <hi>Synopſis</hi> for the third part of the price, and they ſhould have for their money all that's Material in the large Volume, beſides the Marrow of many a rare book to boot, and its fitting all ſorts of Lawyers ſhould be ac<g ref="char:EOLhyphen"/>commodated. I would rather be poſſeſſed of ſo much good white pa<g ref="char:EOLhyphen"/>per, then the large Printed book. If men be uneaſie to beleive that all theſe things, may be done, let them repair to Mr. <hi>Pool,</hi> and he ſhall with a great confidence aſſure them (and that with authority) that they receive no injury by all this.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
